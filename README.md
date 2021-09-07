@@ -2,7 +2,7 @@
 
 ![Screenshot](./prints/print1.jpg)
 
-!Screenshot](./prints/print2.jpg)
+![Screenshot](./prints/print2.jpg)
 
-!Screenshot](./prints/print3.jpg)
+![Screenshot](./prints/print3.jpg)
 
